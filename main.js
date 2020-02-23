@@ -1,4 +1,4 @@
-var textContainer = document.querySelectorAll('span');
+var textContainer = document.querySelectorAll('h2');
 
 var xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
